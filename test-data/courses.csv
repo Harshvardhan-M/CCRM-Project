@@ -1,0 +1,16 @@
+Code,Title,Credits,Department,Semester,Instructor
+CS101,Introduction to Computer Science,3,Computer Science,FALL,Dr. Anderson
+CS201,Data Structures and Algorithms,4,Computer Science,SPRING,Prof. Johnson
+MATH101,Calculus I,4,Mathematics,FALL,Dr. Smith
+MATH201,Calculus II,4,Mathematics,SPRING,Prof. Wilson
+ENG101,English Composition,3,English,FALL,Dr. Brown
+ENG201,Literature and Writing,3,English,SPRING,Prof. Davis
+PHYS101,General Physics I,4,Physics,FALL,Dr. Taylor
+PHYS201,General Physics II,4,Physics,SPRING,Prof. Miller
+CHEM101,General Chemistry,4,Chemistry,FALL,Dr. Garcia
+HIST101,World History,3,History,SPRING,Prof. Rodriguez
+BIO101,Introduction to Biology,4,Biology,FALL,Dr. Thompson
+PSYC101,Introduction to Psychology,3,Psychology,SPRING,Prof. White
+ECON101,Principles of Economics,3,Economics,FALL,Dr. Lee
+STAT101,Introduction to Statistics,3,Statistics,SPRING,Prof. Kim
+ART101,Introduction to Art,2,Fine Arts,FALL,Prof. Martinez

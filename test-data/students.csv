@@ -1,0 +1,11 @@
+ID,RegNo,Name,Email,Status
+STU001,REG2024001,John Smith,john.smith@university.edu,ACTIVE
+STU002,REG2024002,Jane Doe,jane.doe@university.edu,ACTIVE
+STU003,REG2024003,Mike Johnson,mike.johnson@university.edu,ACTIVE
+STU004,REG2024004,Sarah Wilson,sarah.wilson@university.edu,ACTIVE
+STU005,REG2024005,David Brown,david.brown@university.edu,INACTIVE
+STU006,REG2024006,Emily Davis,emily.davis@university.edu,ACTIVE
+STU007,REG2024007,Chris Miller,chris.miller@university.edu,ACTIVE
+STU008,REG2024008,Lisa Anderson,lisa.anderson@university.edu,GRADUATED
+STU009,REG2024009,Tom Garcia,tom.garcia@university.edu,ACTIVE
+STU010,REG2024010,Maria Rodriguez,maria.rodriguez@university.edu,ACTIVE
